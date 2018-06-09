@@ -1,0 +1,19 @@
+{
+  "name": "redux-compose-reducer",
+  "version": "1.0.0",
+  "description": "Compose redux state through enhanced reducers.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kurtpeters/redux-compose-reducer.git"
+  },
+  "author": "Kurt Peters <kurtpeters.contact@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kurtpeters/redux-compose-reducer/issues"
+  },
+  "homepage": "https://github.com/kurtpeters/redux-compose-reducer#readme"
+}
